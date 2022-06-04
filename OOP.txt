@@ -1,0 +1,9 @@
+Inheritance - When an object aquires all the properties and behaviour of a parent class except constructor. It helps achieve polymorphism. IS-A relationship
+Polymorphism - If one task is performed in different ways. Method overloading and method overriding
+Abstraction - Hiding internal details and showing functionality. WE use abstract class and interface
+Encapsulation- Wrapping up of code and data together into single unit. Java class is example of it. Java bean is fully encapsulated as members are private in there
+Coupling - dependency of one object on another. Use interface for weaker coupling
+Cohesion - A single well defined task will be done by only one method. In case of weaker cohesion, task is splitted into multiple methods or components
+Association - Refers to relationship b/w objects. One to many, many to one, one to one and many to many
+Aggregation - Has-A relationship. It is a way to achieve association. One object contains other object as a part of its state
+Composition - Stricter Aggregation where the containing object is nothing without the contained object

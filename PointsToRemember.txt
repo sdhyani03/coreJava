@@ -1,0 +1,6 @@
+A Java constructor cannot be abstract, static, final, and synchronized
+We can apply static keyword with variables, methods, blocks and nested classes.
+	The static variable gets memory only once in the class area at the time of class loading
+	this and super cannot be used in static context.
+	static block is executed before the main method at the time of classloading.
+this is a reference variable that refers to the current object
